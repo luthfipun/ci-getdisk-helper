@@ -10,6 +10,7 @@ call on controllers
 <code>$this->load->helper('diskspace');</code>
 
 call on <code>config/autoload.php</code>
+
 <code>$autoload['helper'] = array('diskspace');</code>
 
 <h3>Examples</h3>
